@@ -15,12 +15,12 @@ let fruits = ["apple", "banana", "orange"];
 let hundar = ["hugo", "sally", "boss", "molly"];
 let katter = ["majja", "kisse", "misse"];
 
-const forEachFunction = function (array) {
-  array.forEach(function (item) {
-    console.log(item);
-  });
-};
-forEachFunction(katter);
+// const forEachFunction = function (array) {
+//   array.forEach(function (item) {
+//     console.log(item);
+//   });
+// };
+//forEachFunction(katter);
 
 // Arrow
 const forEachFunction = (array) => array.forEach((item) => console.log(item));
