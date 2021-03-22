@@ -1,0 +1,2 @@
+# Arbetsmetodik
+DRY principles 
